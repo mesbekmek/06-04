@@ -13,6 +13,8 @@ int main(int argc, const char * argv[]) {
     NSInteger num = 1;
     CGFloat f = 1.2;
     
+    int i=7;
+    
     CGFloat intToFloat = (CGFloat)num;
     CGFloat result = intToFloat + f;
     
